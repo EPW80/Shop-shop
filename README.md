@@ -1,4 +1,4 @@
-# Shop Shop  
+# Shop shop  
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
