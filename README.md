@@ -1,4 +1,4 @@
-# Shop shop  
+# Shop shop
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -10,20 +10,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Table of Contents
 
-* [Deployed Application](#deployed-application)
-* [User Story](#user-story)
-* [Usage](#usage)
-* [License](#license)
-* [Available-Scripts](#available-scripts)
-* [Learn-More](#learn-more)
-* [Contributing](#contributing)
-* [Questions](#questions)
+- [Deployed Application](#deployed-application)
+- [User Story](#user-story)
+- [Usage](#usage)
+- [License](#license)
+- [Available-Scripts](#available-scripts)
+- [Learn-More](#learn-more)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
+## Deployed Application
 
-<!-- ## Deployed Application  -->
-
-<!-- [Shop Shop](https://shop-shop-redux.herokuapp.com/)<br />
-![Image](https://github.com/izabelacloud/Shop-Shop-Redux/blob/master/shop-shop.gif?raw=true)<br /> -->
+[Shop Shop](https://powerful-sands-15763.herokuapp.com/)<br />
+![Image](./client/public/images/shop.png)<br />
 
 ## User Story
 
@@ -43,10 +42,9 @@ THEN I find that the app uses Redux instead of the Context API<br />
 WHEN I review the way the app dispatches actions<br />
 THEN I find that the app uses Redux instead of the Context API<br />
 
-
 ## Usage
 
-This application allows to shop for various items, add these products to the shopping cart, manage the shopping cart by increasing and decreasing quantities, check out their purchases and see their order history. 
+This application allows to shop for various items, add these products to the shopping cart, manage the shopping cart by increasing and decreasing quantities, check out their purchases and see their order history.
 
 ## License
 
