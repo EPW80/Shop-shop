@@ -21,7 +21,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed Application
 
-[Shop Shop](https://powerful-sands-15763.herokuapp.com/)<br />
+[Deplyed Application](https://powerful-sands-15763.herokuapp.com/)<br /><br />
+
 ![Image](./client/public/images/shop.png)<br />
 ![Image](./client/public/images/shop2.png)
 
